@@ -1,1 +1,0 @@
-/Users/frasercroad/Documents/ember-learning/totos/tmp/broccoli_merge_trees-input_base_path-HhOmPVQX.tmp/6/todos/tests/unit/adapters/application-test.jshint.js

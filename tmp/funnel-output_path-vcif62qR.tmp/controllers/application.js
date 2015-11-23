@@ -1,1 +1,0 @@
-/Users/frasercroad/Documents/ember-learning/Todos/tmp/funnel-input_base_path-0SdlJxTm.tmp/0/controllers/application.js

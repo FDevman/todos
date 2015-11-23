@@ -1,1 +1,0 @@
-/Users/frasercroad/Documents/ember-learning/totos/tmp/babel-output_path-dB2KVEN5.tmp/todos/app.js

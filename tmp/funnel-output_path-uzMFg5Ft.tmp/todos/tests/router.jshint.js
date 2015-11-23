@@ -1,1 +1,0 @@
-/Users/frasercroad/Documents/ember-learning/Todos/tmp/jshinter-output_path-1hwH7jp5.tmp/router.jshint.js

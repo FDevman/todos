@@ -1,1 +1,0 @@
-/Users/frasercroad/Documents/ember-learning/totos/tmp/funnel-input_base_path-93tbinQC.tmp/0/bower_components/ember-cli-test-loader/test-loader.js

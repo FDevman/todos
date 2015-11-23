@@ -1,1 +1,0 @@
-/Users/frasercroad/Documents/ember-learning/totos/app/controllers/index.js

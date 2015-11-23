@@ -1,1 +1,0 @@
-/Users/frasercroad/Documents/ember-learning/Todos/tmp/jshinter-output_path-8XyhaWwR.tmp/unit/controllers/index-controller-test.jshint.js
