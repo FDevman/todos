@@ -1,0 +1,1 @@
+/Users/frasercroad/Documents/ember-learning/totos/tmp/broccoli_merge_trees-input_base_path-TctB0soH.tmp/12/reexports/ember-data-fixture-adapter.js

@@ -1,0 +1,1 @@
+/Users/frasercroad/Documents/ember-learning/totos/tmp/jshinter-output_path-gFeonZOf.tmp/integration/components/new-todo-test.jshint.js

@@ -1,0 +1,1 @@
+/Users/frasercroad/Documents/ember-learning/Todos/tmp/funnel-input_base_path-CFysfr9t.tmp/0/initializer-factory.js

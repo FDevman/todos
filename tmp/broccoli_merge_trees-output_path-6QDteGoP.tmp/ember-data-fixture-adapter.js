@@ -1,0 +1,1 @@
+/Users/frasercroad/Documents/ember-learning/totos/tmp/reexporter-tmp_cache_dir-wOw4bNrd.tmp/reexports/ember-data-fixture-adapter.js

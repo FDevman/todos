@@ -1,0 +1,9 @@
+<section id="main">
+	<ul id="todo-list">
+		{{#each model as |todo|}}
+			{{todo-li todo=todo}}
+		{{/each}}
+	</ul>
+
+	{{toggle-all todos=model}}
+</section>

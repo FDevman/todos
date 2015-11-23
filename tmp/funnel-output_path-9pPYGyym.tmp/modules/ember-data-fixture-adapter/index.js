@@ -1,0 +1,1 @@
+/Users/frasercroad/Documents/ember-learning/totos/tmp/funnel-input_base_path-dkhKHWhy.tmp/0/index.js
