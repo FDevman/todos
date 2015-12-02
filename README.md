@@ -1,5 +1,13 @@
 # Todos
 
+## To create a docker container with this app
+```
+git clone https://github.com/FDevman/todos.git
+cd todos
+docker build -t <repo/name:tag> .
+docker run -p <serve-port>:4200 <repo/name:tag>
+```
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
